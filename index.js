@@ -14,7 +14,7 @@ app.error = function( exception, request, response ) {
     console.log(exception)
     console.log(request);
     console.log(response);
-    response.say( 'Sorry an error occured ' + error.message);
+    response.say( 'Sorry an error occured ');// + error.message);
 };
 
 app.intent('sayNumber',
