@@ -1,0 +1,22 @@
+{
+  "name": "alexaskill",
+  "version": "1.0.0",
+  "description": "First skill for AlexaServer to handle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benptc/AlexaSkill.git"
+  },
+  "author": "Ben Reynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benptc/AlexaSkill/issues"
+  },
+  "homepage": "https://github.com/benptc/AlexaSkill#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.0"
+  }
+}
